@@ -8,10 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="AutowiringAnnotation" />
         <module name="demoproject" />
-        <module name="DefiningBeans" />
         <module name="BeansUsingComponentAnnotation" />
-        <module name="AutowiringBeans" />
         <module name="RegisteringBeans" />
+        <module name="DefiningBeans" />
+        <module name="AutowiringBeans" />
+        <module name="AmbiguityInAutowiring" />
       </profile>
     </annotationProcessing>
   </component>

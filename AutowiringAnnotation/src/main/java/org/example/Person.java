@@ -22,6 +22,9 @@ public class Person {
     // It exists, the dependency will be injected into Person
     // If it doesn't exist, exception will be raised saying that dependency not found
     // to avoid the above exception and make the dependency optional, use required = false
+    // we can also place this @Autowired annotation on top of vehicle setter function, constructor also
+    // placing @Autowired above field, setter is not recommended because it doesn't work if the field is final
+    // placing @Autowired above constructor is better because it works even if the field is final
     @Autowired(required = false)
     Vehicle vehicle;
 
@@ -37,6 +40,7 @@ public class Person {
         return vehicle;
     }
 
+    // @Autowired
     public void setVehicle(Vehicle vehicle) {
         this.vehicle = vehicle;
     }
