@@ -13,6 +13,7 @@
         <module name="DefiningBeans" />
         <module name="AutowiringBeans" />
         <module name="AmbiguityInAutowiring" />
+        <module name="AssignmentBeansAutowiring" />
       </profile>
     </annotationProcessing>
   </component>

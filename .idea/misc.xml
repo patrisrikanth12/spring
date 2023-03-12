@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/AutowiringBeans/pom.xml" />
         <option value="$PROJECT_DIR$/AutowiringAnnotation/pom.xml" />
         <option value="$PROJECT_DIR$/AmbiguityInAutowiring/pom.xml" />
+        <option value="$PROJECT_DIR$/AssignmentBeansAutowiring/pom.xml" />
       </list>
     </option>
   </component>

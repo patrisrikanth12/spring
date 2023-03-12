@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/AmbiguityInAutowiring/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/AmbiguityInAutowiring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AssignmentBeansAutowiring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AssignmentBeansAutowiring/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/AutowiringAnnotation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/AutowiringAnnotation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/AutowiringBeans/src/main/java" charset="UTF-8" />
