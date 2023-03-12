@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/DefiningBeans/pom.xml" />
         <option value="$PROJECT_DIR$/BeansUsingComponentAnnotation/pom.xml" />
         <option value="$PROJECT_DIR$/RegisteringBeans/pom.xml" />
+        <option value="$PROJECT_DIR$/AutowiringBeans/pom.xml" />
+        <option value="$PROJECT_DIR$/AutowiringAnnotation/pom.xml" />
       </list>
     </option>
   </component>

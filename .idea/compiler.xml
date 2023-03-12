@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="AutowiringAnnotation" />
         <module name="demoproject" />
         <module name="DefiningBeans" />
         <module name="BeansUsingComponentAnnotation" />
+        <module name="AutowiringBeans" />
         <module name="RegisteringBeans" />
       </profile>
     </annotationProcessing>
